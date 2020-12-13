@@ -14,7 +14,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 
 
 ### Data Structures and Algorithms Project
-- [Visualization - Huffman & QuickSort](https://github.com/Sandace11/DSA_Project) - @Sandace11(bct075),@UdeshyaDhungana(bct095),@pranjalpokharel7(bct061)
+- [Visualization - Huffman & QuickSort](https://github.com/Sandace11/DSA_Project) - @Sandace11(bct075), @UdeshyaDhungana(bct095), @pranjalpokharel7(bct061)
 
 - [TheScholar](https://github.com/ravip5921/TheScholar) - @NikeshDC (BCT052), @ravip5921 (BCT065) and @0000Blaze (BCT066)  
 - [Royal tour](https://github.com/sandeshpokhrel54/knights-tour) - @Santosh-p23(075bct082), @sandeshpokhrel54(075bct076) and @subodh5(075bct088)   
