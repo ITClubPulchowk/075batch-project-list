@@ -7,7 +7,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 - [GalaCtic-Shooter](https://github.com/ravip5921/GalaCtic_Shooter) - @NikeshDC (BCT052) and @ravip5921 (BCT065)
 - [Mad-Libs](https://github.com/sandeshpokhrel54/Mad-Libs) - @Santosh-p23(075bct082) and @sandeshpokhrel54(075bct076)
 - [Land-a-Job](https://github.com/Supriya090/Land_a_Job) - @Itshyphen (075BCT064) and @Supriya090 (075BCT090)
-- [Scientific-Calculator](https://github.com/0000Blaze/075project-1) - @0000Blaze (075BCT066) and Shrestha33 (075BCT050)
+- [Scientific-Calculator](https://github.com/0000Blaze/075project-1) - @0000Blaze (075BCT066) and @Shrestha33 (075BCT050)
 
 ### Object Oriented Programming in C++ Project
 - [BaagChal-SFML](https://github.com/Imsanskar/BaagChaal-SFML) - @Imsanskar (bct080) and @Sandippuri (bct077)
