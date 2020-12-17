@@ -23,7 +23,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 - [Royal tour](https://github.com/sandeshpokhrel54/knights-tour) - @Santosh-p23(075bct082), @sandeshpokhrel54(075bct076) and @subodh5(075bct088)   
 - [Arthur-The-Gladiator](https://github.com/Itshyphen/DSA/tree/master) - @Itshyphen (075BCT064), @Shreem011 (075BCT084) and @Supriya090 (075BCT090)
 - [Ticket Manager](https://github.com/Kuu44/TicketManager) - @Kuu44 (075BCT045), @lakshman-11 (075BCT046)
-
+- [Global Aviation Database](https://github.com/SmaranDhg/Airline) - @SmaranDhg (075bBCT086) @samD54321 (075BCT072)
 ### Note:
 All members in the 075Batch team can modify and commit to this repository. Please be sure follow the format of this markdown.\
 Format : link - @username (roll-number)
