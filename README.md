@@ -16,6 +16,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 - [The Iron Throne](https://github.com/sandeshpokhrel54/The-Iron-Throne) - @Santosh-p23(075bct082), @sandeshpokhrel54(075bct076) and @subodh5(075bct088) 
 - [Tetris-Brick-Game](https://github.com/Supriya090/Tetris_Cpp) - @Shreem011 (075BCT084) and @Supriya090 (075BCT090)
 - [Penalty Fever](https://github.com/sauzzon/PenaltyFever) - @sauzzon (075BCT083), @C000Ldude (075BCT078) and @acharyasandeep (075BCT074)
+- [A Day in Pulchowk Campus](https://github.com/Itshyphen/DSA) - @pranjalpokharel7 (075BCT061), @Itshyphen (075BCT064) and @neeshan (075BCT057)
 
 
 ### Data Structures and Algorithms Project
