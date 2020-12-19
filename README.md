@@ -31,6 +31,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 - [Visualization - Sort & BST](https://github.com/sauzzon/Visualization) - @sauzzon (075BCT083), @C000Ldude (075BCT078) and @acharyasandeep (075BCT074)
 - [Visualization](https://github.com/santos7117/college-project) - @santos7117 (075BCT081), @Suyog-Dhakal (075BCT091) and @SurajPokhrel (075BCT090)
 - [Visualization/Quicksort](https://github.com/nisha056/Quick-sort-algorithm) and [Visualization/Huffman Tree](https://github.com/nisha056/Huffman-Tree) - @nisha056 (075BCT056), @priyathakur1234(075BCT062), @ awalrujaa(075BCT069) 
+- [Visualization/BinarySearchTree](https://github.com/Nischal2015/Binary-Tree) - @Nischal2015 (075BCT055), @niteshswarnakar0727 (075BCT058)
 
 ### Note:
 All members in the 075Batch team can modify and commit to this repository. Please be sure follow the format of this markdown.\
