@@ -20,6 +20,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 -   [Tetris-Brick-Game](https://github.com/Supriya090/Tetris_Cpp) - @Shreem011 (075BCT084) and @Supriya090 (075BCT090)
 -   [Penalty Fever](https://github.com/sauzzon/PenaltyFever) - @sauzzon (075BCT083), @C000Ldude (075BCT078) and @acharyasandeep (075BCT074)
 -   [A Day in Pulchowk Campus](https://github.com/Itshyphen/Pulchowk) - @pranjalpokharel7 (075BCT061), @Itshyphen (075BCT064) and @neeshan (075BCT057)
+-   [Anubadak-interpreter for B like language](https://github.com/AayushNeupane57/Anubadak) - @aaditya (075BCT001), @AayushNeupane57 (075BCT006) and @AayushShah196 (075BCT007)
 
 ### Data Structures and Algorithms Project
 
@@ -36,6 +37,8 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 -   [Visualization/Quicksort](https://github.com/nisha056/Quick-sort-algorithm) and [Visualization/Huffman Tree](https://github.com/nisha056/Huffman-Tree) - @nisha056 (075BCT056), @priyathakur1234(075BCT062), @ awalrujaa(075BCT069)
 -   [Visualization/BinarySearchTree](https://github.com/Nischal2015/Binary-Tree) and [Visualization/Sorting](https://github.com/RoshanSubedi159/Sorting-Visualization) - @Nischal2015 (075BCT055), @niteshswarnakar0727 (075BCT058)
 -   [E-Library LMS](https://github.com/chiraqL/Library-Manager) - @Naearp777 (075BCT015), @Bibek99 (075BCT097), @chiraqL (075BCT032)
+-   [Sorting Visualizer](https://github.com/AayushNeupane57/algoVisualizerCPP) - @aayushprime (075BCT004), @AayushNeupane57 (075BCT006)
+-   [Tree Visualizer](https://github.com/AayushNeupane57/TreeVisualizerCPP) - @aayushprime (075BCT004), @AayushNeupane57 (075BCT006)
 
 ### Note:
 
