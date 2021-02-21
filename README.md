@@ -11,6 +11,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 -   [Land-a-Job](https://github.com/Supriya090/Land_a_Job) - @Itshyphen (075BCT064) and @Supriya090 (075BCT090)
 -   [Scientific-Calculator](https://github.com/0000Blaze/075project-1) - @0000Blaze (075BCT066) and @Shrestha33 (075BCT050)
 -   [Store Management System](https://github.com/acharyasandeep/StoreManagementSystem) - @sauzzon (075BCT083) and @acharyasandeep (075BCT074)
+-   [Restaurant Management System](https://github.com/Bishadkoju/RestaurantManagementSystem-C) - @Bishadkoju (075BCT025) and @gjyakhwa1 (075BCT037)
 
 ### Object Oriented Programming in C++ Project
 
@@ -21,6 +22,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 -   [Penalty Fever](https://github.com/sauzzon/PenaltyFever) - @sauzzon (075BCT083), @C000Ldude (075BCT078) and @acharyasandeep (075BCT074)
 -   [A Day in Pulchowk Campus](https://github.com/Itshyphen/Pulchowk) - @pranjalpokharel7 (075BCT061), @Itshyphen (075BCT064) and @neeshan (075BCT057)
 -   [Anubadak-interpreter for B like language](https://github.com/AayushNeupane57/Anubadak) - @aaditya (075BCT001), @AayushNeupane57 (075BCT006) and @AayushShah196 (075BCT007)
+-   [Inimical Battleground](https://github.com/Bishadkoju/Inimical-Battleground) -  @Bishadkoju (075BCT025) and @gjyakhwa1 (075BCT037)
 
 ### Data Structures and Algorithms Project
 
@@ -39,6 +41,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 -   [E-Library LMS](https://github.com/chiraqL/Library-Manager) - @Naearp777 (075BCT015), @Bibek99 (075BCT097), @chiraqL (075BCT032)
 -   [Sorting Visualizer](https://github.com/AayushNeupane57/algoVisualizerCPP) - @aayushprime (075BCT004), @AayushNeupane57 (075BCT006)
 -   [Tree Visualizer](https://github.com/AayushNeupane57/TreeVisualizerCPP) - @aayushprime (075BCT004), @AayushNeupane57 (075BCT006)
+-   [Inimical Battleground 2](https://github.com/Bishadkoju/InimicalBattlegrounds-2) - @Bishadkoju (075BCT025) and @gjyakhwa1 (075BCT037)
 
 ### Note:
 
