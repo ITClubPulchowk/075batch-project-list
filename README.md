@@ -42,7 +42,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 -   [E-Library LMS](https://github.com/chiraqL/Library-Manager) - @Naearp777 (075BCT015), @Bibek99 (075BCT097), @chiraqL (075BCT032)
 -   [Sorting Visualizer](https://github.com/AayushNeupane57/algoVisualizerCPP) - @aayushprime (075BCT004), @AayushNeupane57 (075BCT006)
 -   [Tree Visualizer](https://github.com/AayushNeupane57/TreeVisualizerCPP) - @aayushprime (075BCT004), @AayushNeupane57 (075BCT006)
--   [Inimical Battleground 2](https://github.com/Bishadkoju/InimicalBattlegrounds-2) - @Bishadkoju (075BCT025) and @gjyakhwa1 (075BCT037)
+-   [Inimical Battleground 2](https://github.com/Bishadkoju/InimicalBattlegrounds-2) - @Bishadkoju (075BCT025), @gjyakhwa1 (075BCT037) and kritinyoupane (075BCT043)
 -   [Covid Tracker](https://github.com/Shrestha33/Covid-Tracker) - @Shrestha33 (075BCT050), @rahulshah63(075BCT063) and prabin_paudel(075BCT060)
 
 ### Note:
