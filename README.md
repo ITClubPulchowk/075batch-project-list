@@ -13,6 +13,8 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 -   [Store Management System](https://github.com/acharyasandeep/StoreManagementSystem) - @sauzzon (075BCT083) and @acharyasandeep (075BCT074)
 -   [Restaurant Management System](https://github.com/Bishadkoju/RestaurantManagementSystem-C) - @Bishadkoju (075BCT025) and @gjyakhwa1 (075BCT037)
 
+---
+
 ### Object Oriented Programming in C++ Project
 
 -   [BaagChal-SFML](https://github.com/Imsanskar/BaagChaal-SFML) - @Imsanskar (bct080) and @Sandippuri (bct077)
@@ -25,10 +27,11 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 -   [Inimical Battleground](https://github.com/Bishadkoju/Inimical-Battleground) -  @Bishadkoju (075BCT025) and @gjyakhwa1 (075BCT037)
 -   [Typing Zone](https://github.com/Shrestha33/Typing-Zone) - @Shrestha33 (075BCT050) and @prab205(075BCT060)
 
+---
+
 ### Data Structures and Algorithms Project
 
 -   [Visualization - Huffman & QuickSort](https://github.com/Sandace11/DSA_Project) - @Sandace11(bct075), @UdeshyaDhungana(bct095), @pranjalpokharel7(bct061)
-
 -   [TheScholar](https://github.com/ravip5921/TheScholar) - @NikeshDC (BCT052), @ravip5921 (BCT065) and @0000Blaze (BCT066)
 -   [Royal tour](https://github.com/sandeshpokhrel54/knights-tour) - @Santosh-p23(075bct082), @sandeshpokhrel54(075bct076) and @subodh5(075bct088)
 -   [Arthur-The-Gladiator](https://github.com/Itshyphen/DSA/tree/master) - @Itshyphen (075BCT064), @Shreem011 (075BCT084) and @Supriya090 (075BCT090)
@@ -44,6 +47,12 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 -   [Tree Visualizer](https://github.com/AayushNeupane57/TreeVisualizerCPP) - @aayushprime (075BCT004), @AayushNeupane57 (075BCT006)
 -   [Inimical Battleground 2](https://github.com/Bishadkoju/InimicalBattlegrounds-2) - @Bishadkoju (075BCT025), @gjyakhwa1 (075BCT037) and kritinyoupane (075BCT043)
 -   [Covid Tracker](https://github.com/Shrestha33/Covid-Tracker) - @Shrestha33 (075BCT050), @rahulshah63(075BCT063) and @prab205(075BCT060)
+
+---
+
+### Graphics Project
+
+- [Our Rocket](https://github.com/pranjalpokharel7/our-rocket) - @UdeshyaDhungana(bct095), @pranjalpokharel7(bct061), @TilakChad(bct094)
 
 ### Note:
 
