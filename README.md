@@ -59,7 +59,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 
 ### Software Engineering Project
 
-- [ICTC Inventory Management](https://github.com/Sandace11/ICTC_Inventory_Management_System) - @Sandace11(bct075), @UdeshyaDhungana(bct095), @pranjalpokharel7(bct061), Prabhat Kabdar - extended from [previous project](https://github.com/AnimeshTimsina/Inventory_Management_System)  
+- [ICTC Inventory Management](https://github.com/Sandace11/ICTC_Inventory_Management_System) - @Sandace11(bct075), @UdeshyaDhungana(bct095), @pranjalpokharel7(bct061), Prabhat Kabdar (bct059) - extended from [previous project](https://github.com/AnimeshTimsina/Inventory_Management_System)  
 - [Casualty Information extraction](https://github.com/Imsanskar/Casualty-Extraction) - @sgr45(075BCT071), @Imsanskar(075BCT080), @Sandippuri(075BCT077), @Shawn00-tech(075BCT079)
 
 ---
