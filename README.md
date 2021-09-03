@@ -26,6 +26,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 -   [Anubadak-interpreter for B like language](https://github.com/AayushNeupane57/Anubadak) - @aaditya (075BCT001), @AayushNeupane57 (075BCT006) and @AayushShah196 (075BCT007)
 -   [Inimical Battleground](https://github.com/Bishadkoju/Inimical-Battleground) -  @Bishadkoju (075BCT025) and @gjyakhwa1 (075BCT037)
 -   [Typing Zone](https://github.com/Shrestha33/Typing-Zone) - @Shrestha33 (075BCT050) and @prab205(075BCT060)
+-   [Foo2y](https://github.com/Kuu44/Foo2y) - [@Kuu44](https://github.com/Kuu44) (075BCT045) and [@VanIro](https://github.com/VanIro) (075BCT041)
 
 ---
 
