@@ -52,13 +52,15 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 
 ### Graphics Project
 
-- [Our Rocket](https://github.com/pranjalpokharel7/our-rocket) - @UdeshyaDhungana(bct095), @pranjalpokharel7(bct061), @TilakChad(bct094)
+- [Our Rocket](https://github.com/pranjalpokharel7/our-rocket) - @UdeshyaDhungana(bct095), @pranjalpokharel7(bct061), @TilakChad(bct094)  
+- [Rani Pokhari](https://github.com/Imsanskar/Rani-Pokhari) - @sgr45(075BCT071), @Imsanskar(075BCT080), @Sandippuri(075BCT077)
 
 ---
 
 ### Software Engineering Project
 
-- [ICTC Inventory Management](https://github.com/Sandace11/ICTC_Inventory_Management_System) - @Sandace11(bct075), @UdeshyaDhungana(bct095), @pranjalpokharel7(bct061), Prabhat Kabdar - extended from [previous project](https://github.com/AnimeshTimsina/Inventory_Management_System)
+- [ICTC Inventory Management](https://github.com/Sandace11/ICTC_Inventory_Management_System) - @Sandace11(bct075), @UdeshyaDhungana(bct095), @pranjalpokharel7(bct061), Prabhat Kabdar - extended from [previous project](https://github.com/AnimeshTimsina/Inventory_Management_System)  
+- [Casualty Information extraction](https://github.com/Imsanskar/Casualty-Extraction) - @sgr45(075BCT071), @Imsanskar(075BCT080), @Sandippuri(075BCT077), @Shawn00-tech(075BCT079)
 
 ---
 
