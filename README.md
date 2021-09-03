@@ -55,14 +55,16 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 - [Our Rocket](https://github.com/pranjalpokharel7/our-rocket) - @UdeshyaDhungana(bct095), @pranjalpokharel7(bct061), @TilakChad(bct094)  
 - [Rani Pokhari](https://github.com/Imsanskar/Rani-Pokhari) - @sgr45(075BCT071), @Imsanskar(075BCT080), @Sandippuri(075BCT077)   
 - [Escape Room](https://github.com/Itshyphen/Escape-Room-Demonstration-in-OpenGL) - @Itshyphen (075BCT064), @Shreem011 (075BCT084) and @Supriya090 (075BCT090)
+- [Landscape Generator](https://github.com/Team-Amalgam/Graphics) - [@Kuu44](https://github.com/Kuu44) (075BCT045), [@gjyakhwa1](https://github.com/gjyakhwa1) (075BCT037), [@kritinyoupane](https://github.com/kritinyoupane) (075BCT043) and [@Bishadkoju](https://github.com/Bishadkoju) (075BCT025)
 
 ---
 
 ### Software Engineering Project
 
 - [ICTC Inventory Management](https://github.com/Sandace11/ICTC_Inventory_Management_System) - @Sandace11(bct075), @UdeshyaDhungana(bct095), @pranjalpokharel7(bct061), @om7000 (bct059) - extended from [previous project](https://github.com/AnimeshTimsina/Inventory_Management_System)  
-- [Casualty Information extraction](https://github.com/Imsanskar/Casualty-Extraction) - @sgr45(075BCT071), @Imsanskar(075BCT080), @Sandippuri(075BCT077), @Shawn00-tech(075BCT079)    
+- [Casualty Information extraction](https://github.com/Imsanskar/Casualty-Extraction) - @sgr45(075BCT071), @Imsanskar(075BCT080), @Sandippuri(075BCT077), @Shawn00-tech(075BCT079) 
 - [Log Tracker](https://github.com/Supriya090/LogTracker) - @prab205 (075BCT060), @rahulshah63(075BCT063), @Itshyphen (075BCT064) and @Supriya090 (075BCT090)
+- [GhurGhur Khwacha](https://github.com/Team-Amalgam/GhurGhurKwaccha) - [@Kuu44](https://github.com/Kuu44) (075BCT045), [@gjyakhwa1](https://github.com/gjyakhwa1) (075BCT037), [@kritinyoupane](https://github.com/kritinyoupane) (075BCT043) and [@Bishadkoju](https://github.com/Bishadkoju) (075BCT025)
 
 ---
 
