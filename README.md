@@ -57,7 +57,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 - [Rani Pokhari](https://github.com/Imsanskar/Rani-Pokhari) - @sgr45(075BCT071), @Imsanskar(075BCT080), @Sandippuri(075BCT077)   
 - [Escape Room](https://github.com/Itshyphen/Escape-Room-Demonstration-in-OpenGL) - @Itshyphen (075BCT064), @Shreem011 (075BCT084) and @Supriya090 (075BCT090)
 - [Landscape Generator](https://github.com/Team-Amalgam/Graphics) - [@Kuu44](https://github.com/Kuu44) (075BCT045), [@gjyakhwa1](https://github.com/gjyakhwa1) (075BCT037), [@kritinyoupane](https://github.com/kritinyoupane) (075BCT043) and [@Bishadkoju](https://github.com/Bishadkoju) (075BCT025)
-
+- [3D Cottage](https://github.com/chiraqL/Engine3D) - [@Naearp777](https://github.com/Naearp777) (075BCT015), [@chiraqL](https://github.com/chiraqL) (075BCT032), [@Bibek99](https://github.com/Bibek99) (075BCT097) and [@Saugatkafley](https://github.com/Saugatkafley) (075BCT099)
 ---
 
 ### Software Engineering Project
