@@ -4,7 +4,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 
 ### C Programming Project
 
--   [WordBlocks](https://github.com/pranjalpokharel7/wordblocks) - @Sandace11 (bct075) and @pranjalpokharel7 (bct061)
+-   [WordBlocks](https://github.com/pranjalpokharel7/wordblocks) - @Sandace11 (075BCT075) and @pranjalpokharel7 (075BCT061)
 -   [Path-Of-Reinvention-BaghChal](https://github.com/sgr45/Path-of-reinvention-BaghChal) - @sgr45 (bct071) and @Imsanskar (bct080)
 -   [GalaCtic-Shooter](https://github.com/ravip5921/GalaCtic_Shooter) - @NikeshDC (BCT052) and @ravip5921 (BCT065)
 -   [Mad-Libs](https://github.com/sandeshpokhrel54/Mad-Libs) - @Santosh-p23(075bct082) and @sandeshpokhrel54(075bct076)
@@ -32,7 +32,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 
 ### Data Structures and Algorithms Project
 
--   [Visualization - Huffman & QuickSort](https://github.com/Sandace11/DSA_Project) - @Sandace11(bct075), @UdeshyaDhungana(bct095), @pranjalpokharel7(bct061)
+-   [Visualization - Huffman & QuickSort](https://github.com/Sandace11/DSA_Project) - @Sandace11(075BCT075), @UdeshyaDhungana(075BCT095), @pranjalpokharel7(075BCT061)
 -   [TheScholar](https://github.com/ravip5921/TheScholar) - [@NikeshDC](https://github.com/NikeshDC) (075BCT052), [@ravip5921](https://github.com/ravip5921) (075BCT065) and [@0000Blaze](https://github.com/0000Blaze) (075BCT066)
 -   [Royal tour](https://github.com/sandeshpokhrel54/knights-tour) - @Santosh-p23(075bct082), @sandeshpokhrel54(075bct076) and @subodh5(075bct088)
 -   [Arthur-The-Gladiator](https://github.com/Itshyphen/DSA/tree/master) - @Itshyphen (075BCT064), @Shreem011 (075BCT084) and @Supriya090 (075BCT090)
@@ -53,7 +53,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 
 ### Graphics Project
 
-- [Our Rocket](https://github.com/pranjalpokharel7/our-rocket) - @UdeshyaDhungana(bct095), @pranjalpokharel7(bct061), @TilakChad(bct094)  
+- [Our Rocket](https://github.com/pranjalpokharel7/our-rocket) - @UdeshyaDhungana(075BCT095), @pranjalpokharel7(075BCT061), @TilakChad(075BCT094)  
 - [Rani Pokhari](https://github.com/Imsanskar/Rani-Pokhari) - @sgr45(075BCT071), @Imsanskar(075BCT080), @Sandippuri(075BCT077)   
 - [Escape Room](https://github.com/Itshyphen/Escape-Room-Demonstration-in-OpenGL) - @Itshyphen (075BCT064), @Shreem011 (075BCT084) and @Supriya090 (075BCT090)
 - [Landscape Generator](https://github.com/Team-Amalgam/Graphics) - [@Kuu44](https://github.com/Kuu44) (075BCT045), [@gjyakhwa1](https://github.com/gjyakhwa1) (075BCT037), [@kritinyoupane](https://github.com/kritinyoupane) (075BCT043) and [@Bishadkoju](https://github.com/Bishadkoju) (075BCT025)
@@ -65,11 +65,17 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 
 ### Software Engineering Project
 
-- [ICTC Inventory Management](https://github.com/Sandace11/ICTC_Inventory_Management_System) - @Sandace11(bct075), @UdeshyaDhungana(bct095), @pranjalpokharel7(bct061), @om7000 (bct059) - extended from [previous project](https://github.com/AnimeshTimsina/Inventory_Management_System)  
+- [ICTC Inventory Management](https://github.com/Sandace11/ICTC_Inventory_Management_System) - @Sandace11(075BCT075), @UdeshyaDhungana(075BCT095), @pranjalpokharel7(075BCT061), @om7000 (075BCT059) - extended from [previous project](https://github.com/AnimeshTimsina/Inventory_Management_System)  
 - [Casualty Information extraction](https://github.com/Imsanskar/Casualty-Extraction) - @sgr45(075BCT071), @Imsanskar(075BCT080), @Sandippuri(075BCT077), @Shawn00-tech(075BCT079) 
 - [Log Tracker](https://github.com/Supriya090/LogTracker) - @prab205 (075BCT060), @rahulshah63(075BCT063), @Itshyphen (075BCT064) and @Supriya090 (075BCT090)
 - [GhurGhur Khwacha](https://github.com/Team-Amalgam/GhurGhurKwaccha) - [@Kuu44](https://github.com/Kuu44) (075BCT045), [@gjyakhwa1](https://github.com/gjyakhwa1) (075BCT037), [@kritinyoupane](https://github.com/kritinyoupane) (075BCT043) and [@Bishadkoju](https://github.com/Bishadkoju) (075BCT025)
 - [HEAD](https://github.com/ravip5921/HEAD) - [@NikeshDC](https://github.com/NikeshDC) (075BCT052), [@ravip5921](https://github.com/ravip5921) (075BCT065) and [@0000Blaze](https://github.com/0000Blaze) (075BCT066)
+
+---
+
+### AI Presentation
+
+- [Particle Swarm Optimization (CD)](https://github.com/nsn39/particle-swarm) - @nsn39 (075BCT057), @pranjalpokharel7 (075BCT061) and @samD54321 (075BCT072)
 
 ---
 
