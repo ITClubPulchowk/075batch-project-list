@@ -77,6 +77,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 
 - [Particle Swarm Optimization (CD)](https://github.com/nsn39/particle-swarm) - @nsn39 (075BCT057), @pranjalpokharel7 (075BCT061) and @samD54321 (075BCT072)
 - [Checkers AI - Adversial Search](https://github.com/Kuu44/Checkers-AI) - [@Kuu44](https://github.com/Kuu44) (075BCT045), [@JanakSharma2055](https://github.com/JanakSharma2055) (075BCT040) and [@bishalbashyal33](https://github.com/bishalbashyal33) (075BCT033)
+- [Boltzmann Machine](https://github.com/Imsanskar/Boltzman-Machine) - [@Imsanskar](https://github.com/Imsanskar/)(075BCT080) , [@TilakChad](https://github.com/TilakChad/)(075BCT094), [@udeshyaDhungana](https://github.com/udeshyaDhungana/)(075BCT095)
 ---
 
 ### Note:
