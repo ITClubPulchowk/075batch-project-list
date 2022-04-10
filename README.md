@@ -79,6 +79,13 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 - [Checkers AI - Adversial Search](https://github.com/Kuu44/Checkers-AI) - [@Kuu44](https://github.com/Kuu44) (075BCT045), [@JanakSharma2055](https://github.com/JanakSharma2055) (075BCT040) and [@bishalbashyal33](https://github.com/bishalbashyal33) (075BCT033)
 - [Boltzmann Machine](https://github.com/Imsanskar/Boltzman-Machine) - [@Imsanskar](https://github.com/Imsanskar/)(075BCT080) , [@TilakChad](https://github.com/TilakChad/)(075BCT094), [@udeshyaDhungana](https://github.com/udeshyaDhungana/)(075BCT095)
 - [Self Organizing Map](https://github.com/Sandace11/Self-Organizing-Map) - [@Sandace11](https://github.com/Sandace11) (075BCT075), [@ItsPuri](https://github.com/Sandippuri)(075BCT077), [@Supriya090](https://github.com/Supriya090) (075BCT090)
+
+---
+
+### Minor Project
+
+- [Yuddhisthira - A Custom "Coinless" Blockchain](https://github.com/pranjalpokharel7/yudhishthira) - "DECENTralized BAZAAR" : Application Over Blockchain ([FrontEnd](https://github.com/UdeshyaDhungana/dbazaar-frontend), [BackEnd](https://github.com/UdeshyaDhungana/dbazaar-backend)) - @pranjalpokharel7(075BCT061), @UdeshyaDhungana(075BCT095), @Sandace11(075BCT075), @nisha056(075BCT056), @Imsanskar(075BCT080)
+
 ---
 
 ### Note:
