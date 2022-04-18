@@ -86,7 +86,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 
 - [Yuddhisthira - A Custom "Coinless" Blockchain](https://github.com/pranjalpokharel7/yudhishthira) - "DECENTralized BAZAAR" : Application Over Blockchain ([FrontEnd](https://github.com/UdeshyaDhungana/dbazaar-frontend), [BackEnd](https://github.com/UdeshyaDhungana/dbazaar-backend)) - @pranjalpokharel7(075BCT061), @UdeshyaDhungana(075BCT095), @Sandace11(075BCT075), @nisha056(075BCT056), @Imsanskar(075BCT080)
 - [Old Image Restoration](https://github.com/Imsanskar/Old-image-restoration-minor) ([FrontEnd](https://github.com/Sandippuri/minor_ui)) - @sgr45(075BCT071), @Imsanskar(075BCT080), @Sandippuri(075BCT077), @TilakChad(075BCT084)
-- - [DShelf: A Decentralized Publishing Platform](https://github.com/Supriya090/D-Shelf) (@prab205(075BCT060), @rahulshah63(075BCT063), @itshyphen(075BCT064), @Supriya090(075BCT090)
+- - [DShelf: A Decentralized Publishing Platform](https://github.com/Supriya090/D-Shelf) - @prab205 (075BCT060), @rahulshah63(075BCT063), @Itshyphen (075BCT064) and @Supriya090 (075BCT090)
 
 ---
 
