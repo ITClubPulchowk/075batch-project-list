@@ -26,7 +26,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 -   [Anubadak-interpreter for B like language](https://github.com/AayushNeupane57/Anubadak) - @aaditya (075BCT001), @AayushNeupane57 (075BCT006) and @AayushShah196 (075BCT007)
 -   [Inimical Battleground](https://github.com/Bishadkoju/Inimical-Battleground) -  @Bishadkoju (075BCT025) and @gjyakhwa1 (075BCT037)
 -   [Typing Zone](https://github.com/Shrestha33/Typing-Zone) - @Shrestha33 (075BCT050) and @prab205(075BCT060)
--   [Foo2y](https://github.com/Kuu44/Foo2y) - [@Kuu44](https://github.com/Kuu44) (075BCT045) and [@VanIro](https://github.com/VanIro) (075BCT041)
+-   [Foo2y](https://github.com/Kuu44/Foo2y) - [@Kuu44](https://github.com/Kuu44) (075BCT045) and [@VanIro](https://github.com/VanIro) (075BCT041) and [@kiri0424](https://github.com/kiri0424)
 
 ---
 
@@ -48,6 +48,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 -   [Tree Visualizer](https://github.com/AayushNeupane57/TreeVisualizerCPP) - @aayushprime (075BCT004), @AayushNeupane57 (075BCT006)
 -   [Inimical Battleground 2](https://github.com/Bishadkoju/InimicalBattlegrounds-2) - @Bishadkoju (075BCT025), @gjyakhwa1 (075BCT037) and kritinyoupane (075BCT043)
 -   [Covid Tracker](https://github.com/Shrestha33/Covid-Tracker) - @Shrestha33 (075BCT050), @rahulshah63(075BCT063) and @prab205(075BCT060)
+-   
 
 ---
 
@@ -60,7 +61,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 - [3D Cottage](https://github.com/chiraqL/Engine3D) - [@Naearp777](https://github.com/Naearp777) (075BCT015), [@chiraqL](https://github.com/chiraqL) (075BCT032), [@Bibek99](https://github.com/Bibek99) (075BCT097) and [@Saugatkafley](https://github.com/Saugatkafley) (075BCT099)
 - [A380-Modeling  A-Computer-Graphics-Project](https://github.com/rahulshah63/A380-Modeling--A-Computer-Graphics-Project) - @Shrestha33 (bct050), @prab205 (bct060), @rahulshah63 (bct063) 
 - [3D-S](https://github.com/NikeshDC/3D-S) - [@NikeshDC](https://github.com/NikeshDC) (075BCT052), [@ravip5921](https://github.com/ravip5921) (075BCT065) and [@0000Blaze](https://github.com/0000Blaze) (075BCT066)
-
+- [RaniPokhari](https://github.com/Gopal-Kshetri/Graphics-RaniPokhari) - [@Gopal-Kshetri](https://github.com/Gopal-Kshetri)(075bct039),[@kiri0424](https://github.com/kiri0424)(075bct042),[@Manjeet-Pandey](https://github.com/Manjeet-pandey)(075bct048)
 ---
 
 ### Software Engineering Project
@@ -70,6 +71,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 - [Log Tracker](https://github.com/Supriya090/LogTracker) - @prab205 (075BCT060), @rahulshah63(075BCT063), @Itshyphen (075BCT064) and @Supriya090 (075BCT090)
 - [GhurGhur Khwacha](https://github.com/Team-Amalgam/GhurGhurKwaccha) - [@Kuu44](https://github.com/Kuu44) (075BCT045), [@gjyakhwa1](https://github.com/gjyakhwa1) (075BCT037), [@kritinyoupane](https://github.com/kritinyoupane) (075BCT043) and [@Bishadkoju](https://github.com/Bishadkoju) (075BCT025)
 - [HEAD](https://github.com/ravip5921/HEAD) - [@NikeshDC](https://github.com/NikeshDC) (075BCT052), [@ravip5921](https://github.com/ravip5921) (075BCT065) and [@0000Blaze](https://github.com/0000Blaze) (075BCT066)
+- [Invigilator Management System](https://github.com/Gopal-Kshetri/Invigilator) - [@Gopal-Kshetri](https://github.com/Gopal-Kshetri)(075bct039),[@kiri0424](https://github.com/kiri0424)(075bct042),[@Manjeet-Pandey](https://github.com/Manjeet-pandey)(075bct048)
 
 ---
 
@@ -79,6 +81,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 - [Checkers AI - Adversial Search](https://github.com/Kuu44/Checkers-AI) - [@Kuu44](https://github.com/Kuu44) (075BCT045), [@JanakSharma2055](https://github.com/JanakSharma2055) (075BCT040) and [@bishalbashyal33](https://github.com/bishalbashyal33) (075BCT033)
 - [Boltzmann Machine](https://github.com/Imsanskar/Boltzman-Machine) - [@Imsanskar](https://github.com/Imsanskar/)(075BCT080) , [@TilakChad](https://github.com/TilakChad/)(075BCT094), [@udeshyaDhungana](https://github.com/udeshyaDhungana/)(075BCT095)
 - [Self Organizing Map](https://github.com/Sandace11/Self-Organizing-Map) - [@Sandace11](https://github.com/Sandace11) (075BCT075), [@ItsPuri](https://github.com/Sandippuri)(075BCT077), [@Supriya090](https://github.com/Supriya090) (075BCT090)
+- [Fuzzy Logic](https://github.com/kiri0424/Fuzzy-logic-implementation) - [@Gopal-Kshetri](https://github.com/Gopal-Kshetri)(075bct039),[@kiri0424](https://github.com/kiri0424)(075bct042),[@Manjeet-Pandey](https://github.com/Manjeet-pandey)(075bct048)
 
 ---
 
