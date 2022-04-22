@@ -82,6 +82,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 - [Boltzmann Machine](https://github.com/Imsanskar/Boltzman-Machine) - [@Imsanskar](https://github.com/Imsanskar/)(075BCT080) , [@TilakChad](https://github.com/TilakChad/)(075BCT094), [@udeshyaDhungana](https://github.com/udeshyaDhungana/)(075BCT095)
 - [Self Organizing Map](https://github.com/Sandace11/Self-Organizing-Map) - [@Sandace11](https://github.com/Sandace11) (075BCT075), [@ItsPuri](https://github.com/Sandippuri)(075BCT077), [@Supriya090](https://github.com/Supriya090) (075BCT090)
 - [Fuzzy Logic](https://github.com/kiri0424/Fuzzy-logic-implementation) - [@Gopal-Kshetri](https://github.com/Gopal-Kshetri)(075bct039),[@kiri0424](https://github.com/kiri0424)(075bct042),[@Manjeet-Pandey](https://github.com/Manjeet-pandey)(075bct048)
+- [Random Forest](https://github.com/0000Blaze/Random-Forest-Implementation) - [@NikeshDC](https://github.com/NikeshDC) (075BCT052), [@ravip5921](https://github.com/ravip5921) (075BCT065) and [@0000Blaze](https://github.com/0000Blaze) (075BCT066)
 
 ---
 
@@ -90,6 +91,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 - [Yuddhisthira - A Custom "Coinless" Blockchain](https://github.com/pranjalpokharel7/yudhishthira) - "DECENTralized BAZAAR" : Application Over Blockchain ([FrontEnd](https://github.com/UdeshyaDhungana/dbazaar-frontend), [BackEnd](https://github.com/UdeshyaDhungana/dbazaar-backend)) - @pranjalpokharel7(075BCT061), @UdeshyaDhungana(075BCT095), @Sandace11(075BCT075), @nisha056(075BCT056), @Imsanskar(075BCT080)
 - [Old Image Restoration](https://github.com/Imsanskar/Old-image-restoration-minor) ([FrontEnd](https://github.com/Sandippuri/minor_ui)) - @sgr45(075BCT071), @Imsanskar(075BCT080), @Sandippuri(075BCT077), @TilakChad(075BCT084)
 - [DShelf: A Decentralized Publishing Platform](https://github.com/Supriya090/D-Shelf) - @prab205 (075BCT060), @rahulshah63(075BCT063), @Itshyphen (075BCT064) and @Supriya090 (075BCT090)
+- [Smart Attendance : A digitalized approach to the attendance system](https://github.com/0000Blaze/Smart-Attendance) - [@NikeshDC](https://github.com/NikeshDC) (075BCT052), [@ravip5921](https://github.com/ravip5921) (075BCT065) and [@0000Blaze](https://github.com/0000Blaze) (075BCT066)
 
 ---
 
