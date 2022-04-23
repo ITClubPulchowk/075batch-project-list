@@ -12,6 +12,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 -   [Scientific-Calculator](https://github.com/0000Blaze/075project-1) - @0000Blaze (075BCT066) and @Shrestha33 (075BCT050)
 -   [Store Management System](https://github.com/acharyasandeep/StoreManagementSystem) - @sauzzon (075BCT083) and @acharyasandeep (075BCT074)
 -   [Restaurant Management System](https://github.com/Bishadkoju/RestaurantManagementSystem-C) - @Bishadkoju (075BCT025) and @gjyakhwa1 (075BCT037)
+-   [Bank Management System](https://github.com/pTapendra/Bank-mgsystC) - @pTapendra (075BCT093) and @C000Ldude (075BCT078)
 
 ---
 
@@ -48,7 +49,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 -   [Tree Visualizer](https://github.com/AayushNeupane57/TreeVisualizerCPP) - @aayushprime (075BCT004), @AayushNeupane57 (075BCT006)
 -   [Inimical Battleground 2](https://github.com/Bishadkoju/InimicalBattlegrounds-2) - @Bishadkoju (075BCT025), @gjyakhwa1 (075BCT037) and kritinyoupane (075BCT043)
 -   [Covid Tracker](https://github.com/Shrestha33/Covid-Tracker) - @Shrestha33 (075BCT050), @rahulshah63(075BCT063) and @prab205(075BCT060)
--   
+-   [Sorting Visualization](https://github.com/pTapendra/SortingVisualisation) - @pTapendra (075BCT093), @TilakChad 075BCT094) and @AchyutBurlakoti(075BCT098)
 
 ---
 
