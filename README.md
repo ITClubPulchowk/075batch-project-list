@@ -63,6 +63,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 - [A380-Modeling  A-Computer-Graphics-Project](https://github.com/rahulshah63/A380-Modeling--A-Computer-Graphics-Project) - @Shrestha33 (bct050), @prab205 (bct060), @rahulshah63 (bct063) 
 - [3D-S](https://github.com/NikeshDC/3D-S) - [@NikeshDC](https://github.com/NikeshDC) (075BCT052), [@ravip5921](https://github.com/ravip5921) (075BCT065) and [@0000Blaze](https://github.com/0000Blaze) (075BCT066)
 - [RaniPokhari](https://github.com/Gopal-Kshetri/Graphics-RaniPokhari) - [@Gopal-Kshetri](https://github.com/Gopal-Kshetri)(075bct039),[@kiri0424](https://github.com/kiri0424)(075bct042),[@Manjeet-Pandey](https://github.com/Manjeet-pandey)(075bct048)
+- [Dharahara and Ghantaghar](https://github.com/sauzzon/GLCoders) - [@sauzzon](https://github.com/sauzzon) (075BCT083), [@C000Ldude](https://github.com/C000Ldude) (075BCT078) and [@acharyasandeep](https://github.com/acharyasandeep) (075BCT074)
 ---
 
 ### Software Engineering Project
@@ -73,6 +74,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 - [GhurGhur Khwacha](https://github.com/Team-Amalgam/GhurGhurKwaccha) - [@Kuu44](https://github.com/Kuu44) (075BCT045), [@gjyakhwa1](https://github.com/gjyakhwa1) (075BCT037), [@kritinyoupane](https://github.com/kritinyoupane) (075BCT043) and [@Bishadkoju](https://github.com/Bishadkoju) (075BCT025)
 - [HEAD](https://github.com/ravip5921/HEAD) - [@NikeshDC](https://github.com/NikeshDC) (075BCT052), [@ravip5921](https://github.com/ravip5921) (075BCT065) and [@0000Blaze](https://github.com/0000Blaze) (075BCT066)
 - [Invigilator Management System](https://github.com/Gopal-Kshetri/Invigilator) - [@Gopal-Kshetri](https://github.com/Gopal-Kshetri)(075bct039),[@kiri0424](https://github.com/kiri0424)(075bct042),[@Manjeet-Pandey](https://github.com/Manjeet-pandey)(075bct048)
+- [Internal Marks Management System](https://github.com/chasers-software/immsfrontend) - [@sauzzon](https://github.com/sauzzon) (075BCT083),  [@cool51](https://github.com/cool51) (075BCT051), [@C000Ldude](https://github.com/C000Ldude) (075BCT078) and [@acharyasandeep](https://github.com/acharyasandeep) (075BCT074)
 
 ---
 
@@ -84,6 +86,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 - [Self Organizing Map](https://github.com/Sandace11/Self-Organizing-Map) - [@Sandace11](https://github.com/Sandace11) (075BCT075), [@ItsPuri](https://github.com/Sandippuri)(075BCT077), [@Supriya090](https://github.com/Supriya090) (075BCT090)
 - [Fuzzy Logic](https://github.com/kiri0424/Fuzzy-logic-implementation) - [@Gopal-Kshetri](https://github.com/Gopal-Kshetri)(075bct039),[@kiri0424](https://github.com/kiri0424)(075bct042),[@Manjeet-Pandey](https://github.com/Manjeet-pandey)(075bct048)
 - [Random Forest](https://github.com/0000Blaze/Random-Forest-Implementation) - [@NikeshDC](https://github.com/NikeshDC) (075BCT052), [@ravip5921](https://github.com/ravip5921) (075BCT065) and [@0000Blaze](https://github.com/0000Blaze) (075BCT066)
+- [Convolutional Neural Network](https://github.com/sauzzon/Nepali-Handwritten) - [@sauzzon](https://github.com/sauzzon) (075BCT083), [@C000Ldude](https://github.com/C000Ldude) (075BCT078) and [@acharyasandeep](https://github.com/acharyasandeep) (075BCT074)
 
 ---
 
@@ -93,6 +96,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 - [Old Image Restoration](https://github.com/Imsanskar/Old-image-restoration-minor) ([FrontEnd](https://github.com/Sandippuri/minor_ui)) - @sgr45(075BCT071), @Imsanskar(075BCT080), @Sandippuri(075BCT077), @TilakChad(075BCT084)
 - [DShelf: A Decentralized Publishing Platform](https://github.com/Supriya090/D-Shelf) - @prab205 (075BCT060), @rahulshah63(075BCT063), @Itshyphen (075BCT064) and @Supriya090 (075BCT090)
 - [Smart Attendance : A digitalized approach to the attendance system](https://github.com/0000Blaze/Smart-Attendance) - [@NikeshDC](https://github.com/NikeshDC) (075BCT052), [@ravip5921](https://github.com/ravip5921) (075BCT065) and [@0000Blaze](https://github.com/0000Blaze) (075BCT066)
+- [De-KYC : A Decentralized KYC Management System](https://github.com/chasers-software/De-KYC) - [@sauzzon](https://github.com/sauzzon) (075BCT083),  [@cool51](https://github.com/cool51) (075BCT051), [@C000Ldude](https://github.com/C000Ldude) (075BCT078) and [@acharyasandeep](https://github.com/acharyasandeep) (075BCT074)
 
 ---
 
