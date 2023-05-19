@@ -13,7 +13,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 -   [Store Management System](https://github.com/acharyasandeep/StoreManagementSystem) - @sauzzon (075BCT083) and @acharyasandeep (075BCT074)
 -   [Restaurant Management System](https://github.com/Bishadkoju/RestaurantManagementSystem-C) - @Bishadkoju (075BCT025) and @gjyakhwa1 (075BCT037)
 -   [Bank Management System](https://github.com/pTapendra/Bank-mgsystC) - @pTapendra (075BCT093) and @C000Ldude (075BCT078)
--   [Calendar] (https://github.com/bishal216/RandomStuffs/blob/main/C/calender.c) - @bishal216 (075BCT028) and @theDude823 (075BCT030)
+-   [Calendar](https://github.com/bishal216/RandomStuffs/blob/main/C/calender.c) - @bishal216 (075BCT028) and @theDude823 (075BCT030)
 ---
 
 ### Object Oriented Programming in C++ Project
