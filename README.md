@@ -97,12 +97,14 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 - [DShelf: A Decentralized Publishing Platform](https://github.com/Supriya090/D-Shelf) - @prab205 (075BCT060), @rahulshah63(075BCT063), @Itshyphen (075BCT064) and @Supriya090 (075BCT090)
 - [Smart Attendance : A digitalized approach to the attendance system](https://github.com/0000Blaze/Smart-Attendance) - [@NikeshDC](https://github.com/NikeshDC) (075BCT052), [@ravip5921](https://github.com/ravip5921) (075BCT065) and [@0000Blaze](https://github.com/0000Blaze) (075BCT066)
 - [De-KYC : A Decentralized KYC Management System](https://github.com/chasers-software/De-KYC) - [@sauzzon](https://github.com/sauzzon) (075BCT083),  [@cool51](https://github.com/cool51) (075BCT051), [@C000Ldude](https://github.com/C000Ldude) (075BCT078) and [@acharyasandeep](https://github.com/acharyasandeep) (075BCT074)
+- [Handwritten-Equation Recogniser](https://github.com/VanIro/LICT-HMER) - [@Kuu44](https://github.com/Kuu44) (075BCT045),[@Yaman8](https://github.com/Yaman8) (075BCT044), [@VanIro](https://github.com/VanIro) (075BCT041), [@lakshman-11](https://github.com/lakshman-11) (075BCT046)
 
 ---
 
 ### Major Project
 - [Guthi: Distributed Computing Framework](https://github.com/Guthi-Distribution/) - @pranjalpokharel7(075BCT061), @Sandace11(075BCT075), @Imsanskar(075BCT080), @TilakChad(075BCT084)
 - [Video Superresolution](https://github.com/Santosh-p23/RD-BasicVSR) - @Santosh-p23, @sandeshpokhrel54, @sanjaybhandarii, @NikhilAryal 
+- [Detection of Anomalous activities in Video](https://github.com/Yaman8/Django-Anomaly-Detection) - [@Kuu44](https://github.com/Kuu44) (075BCT045),[@Yaman8](https://github.com/Yaman8) (075BCT044), [@VanIro](https://github.com/VanIro) (075BCT041), [@lakshman-11](https://github.com/lakshman-11) (075BCT046)
 
 ### Note:
 
