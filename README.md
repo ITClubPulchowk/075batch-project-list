@@ -102,6 +102,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 
 ### Major Project
 - [Guthi: Distributed Computing Framework](https://github.com/Guthi-Distribution/) - @pranjalpokharel7(075BCT061), @Sandace11(075BCT075), @Imsanskar(075BCT080), @TilakChad(075BCT084)
+- [Video Superresolution](https://github.com/Santosh-p23/RD-BasicVSR) - @Santosh-p23, @sandeshpokhrel54, @sanjaybhandarii, @NikhilAryal 
 
 ### Note:
 
