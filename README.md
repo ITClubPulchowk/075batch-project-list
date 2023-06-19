@@ -105,6 +105,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 - [Guthi: Distributed Computing Framework](https://github.com/Guthi-Distribution/) - @pranjalpokharel7(075BCT061), @Sandace11(075BCT075), @Imsanskar(075BCT080), @TilakChad(075BCT084)
 - [Video Superresolution](https://github.com/Santosh-p23/RD-BasicVSR) - @Santosh-p23, @sandeshpokhrel54, @sanjaybhandarii, @NikhilAryal 
 - [Detection of Anomalous activities in Video](https://github.com/Yaman8/Django-Anomaly-Detection) - [@Kuu44](https://github.com/Kuu44) (075BCT045),[@Yaman8](https://github.com/Yaman8) (075BCT044), [@VanIro](https://github.com/VanIro) (075BCT041), [@lakshman-11](https://github.com/lakshman-11) (075BCT046)
+- [Easy Read : An aid to the Visually Impared](https://github.com/0000Blaze/easy-read-server) - [@NikeshDC](https://github.com/NikeshDC) (075BCT052), [@RaviPandey](https://github.com/ravip5921) (075BCT065), [@RohanChhetry](https://github.com/0000Blaze) (075BCT066) and [@YuktaBansal](https://github.com/Yuktaa11) (075BCT096)
 
 ### Note:
 
