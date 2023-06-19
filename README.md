@@ -19,7 +19,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 ### Object Oriented Programming in C++ Project
 
 -   [BaagChal-SFML](https://github.com/Imsanskar/BaagChaal-SFML) - @Imsanskar (bct080) and @Sandippuri (bct077)
--   [C++Genie](https://github.com/ravip5921/CplusplusGenie) - [@NikeshDC](https://github.com/NikeshDC) (075BCT052), [@ravip5921](https://github.com/ravip5921) (075BCT065) and [@0000Blaze](https://github.com/0000Blaze) (075BCT066)
+-   [C++Genie](https://github.com/ravip5921/CplusplusGenie) - [@NikeshDC](https://github.com/NikeshDC) (075BCT052), [@ravip5921](https://github.com/ravip5921) (075BCT065) and [@RohanChhetry](https://github.com/0000Blaze) (075BCT066)
 -   [The Iron Throne](https://github.com/sandeshpokhrel54/The-Iron-Throne) - @Santosh-p23(075bct082), @sandeshpokhrel54(075bct076) and @subodh5(075bct088)
 -   [Tetris-Brick-Game](https://github.com/Supriya090/Tetris_Cpp) - @Shreem011 (075BCT084) and @Supriya090 (075BCT090)
 -   [Penalty Fever](https://github.com/sauzzon/PenaltyFever) - @sauzzon (075BCT083), @C000Ldude (075BCT078) and @acharyasandeep (075BCT074)
@@ -34,7 +34,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 ### Data Structures and Algorithms Project
 
 -   [Visualization - Huffman & QuickSort](https://github.com/Sandace11/DSA_Project) - @Sandace11(075BCT075), @UdeshyaDhungana(075BCT095), @pranjalpokharel7(075BCT061)
--   [TheScholar](https://github.com/ravip5921/TheScholar) - [@NikeshDC](https://github.com/NikeshDC) (075BCT052), [@ravip5921](https://github.com/ravip5921) (075BCT065) and [@0000Blaze](https://github.com/0000Blaze) (075BCT066)
+-   [TheScholar](https://github.com/ravip5921/TheScholar) - [@NikeshDC](https://github.com/NikeshDC) (075BCT052), [@ravip5921](https://github.com/ravip5921) (075BCT065) and [@RohanChhetry](https://github.com/0000Blaze) (075BCT066)
 -   [Royal tour](https://github.com/sandeshpokhrel54/knights-tour) - @Santosh-p23(075bct082), @sandeshpokhrel54(075bct076) and @subodh5(075bct088)
 -   [Arthur-The-Gladiator](https://github.com/Itshyphen/DSA/tree/master) - @Itshyphen (075BCT064), @Shreem011 (075BCT084) and @Supriya090 (075BCT090)
 -   [Ticket Manager](https://github.com/Kuu44/TicketManager) - @Kuu44 (075BCT045), @lakshman-11 (075BCT046)
@@ -61,7 +61,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 - [Landscape Generator](https://github.com/Team-Amalgam/Graphics) - [@Kuu44](https://github.com/Kuu44) (075BCT045), [@gjyakhwa1](https://github.com/gjyakhwa1) (075BCT037), [@kritinyoupane](https://github.com/kritinyoupane) (075BCT043) and [@Bishadkoju](https://github.com/Bishadkoju) (075BCT025)
 - [3D Cottage](https://github.com/chiraqL/Engine3D) - [@Naearp777](https://github.com/Naearp777) (075BCT015), [@chiraqL](https://github.com/chiraqL) (075BCT032), [@Bibek99](https://github.com/Bibek99) (075BCT097) and [@Saugatkafley](https://github.com/Saugatkafley) (075BCT099)
 - [A380-Modeling  A-Computer-Graphics-Project](https://github.com/rahulshah63/A380-Modeling--A-Computer-Graphics-Project) - @Shrestha33 (bct050), @prab205 (bct060), @rahulshah63 (bct063) 
-- [3D-S](https://github.com/NikeshDC/3D-S) - [@NikeshDC](https://github.com/NikeshDC) (075BCT052), [@ravip5921](https://github.com/ravip5921) (075BCT065) and [@0000Blaze](https://github.com/0000Blaze) (075BCT066)
+- [3D-S](https://github.com/NikeshDC/3D-S) - [@NikeshDC](https://github.com/NikeshDC) (075BCT052), [@ravip5921](https://github.com/ravip5921) (075BCT065) and [@RohanChhetry](https://github.com/0000Blaze) (075BCT066)
 - [RaniPokhari](https://github.com/Gopal-Kshetri/Graphics-RaniPokhari) - [@Gopal-Kshetri](https://github.com/Gopal-Kshetri)(075bct039),[@kiri0424](https://github.com/kiri0424)(075bct042),[@Manjeet-Pandey](https://github.com/Manjeet-pandey)(075bct048)
 - [Dharahara and Ghantaghar](https://github.com/sauzzon/GLCoders) - [@sauzzon](https://github.com/sauzzon) (075BCT083), [@C000Ldude](https://github.com/C000Ldude) (075BCT078) and [@acharyasandeep](https://github.com/acharyasandeep) (075BCT074)
 ---
@@ -72,7 +72,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 - [Casualty Information extraction](https://github.com/Imsanskar/Casualty-Extraction) - @sgr45(075BCT071), @Imsanskar(075BCT080), @Sandippuri(075BCT077), @Shawn00-tech(075BCT079) 
 - [Log Tracker](https://github.com/Supriya090/LogTracker) - @prab205 (075BCT060), @rahulshah63(075BCT063), @Itshyphen (075BCT064) and @Supriya090 (075BCT090)
 - [GhurGhur Khwacha](https://github.com/Team-Amalgam/GhurGhurKwaccha) - [@Kuu44](https://github.com/Kuu44) (075BCT045), [@gjyakhwa1](https://github.com/gjyakhwa1) (075BCT037), [@kritinyoupane](https://github.com/kritinyoupane) (075BCT043) and [@Bishadkoju](https://github.com/Bishadkoju) (075BCT025)
-- [HEAD](https://github.com/ravip5921/HEAD) - [@NikeshDC](https://github.com/NikeshDC) (075BCT052), [@ravip5921](https://github.com/ravip5921) (075BCT065) and [@0000Blaze](https://github.com/0000Blaze) (075BCT066)
+- [HEAD](https://github.com/ravip5921/HEAD) - [@NikeshDC](https://github.com/NikeshDC) (075BCT052), [@ravip5921](https://github.com/ravip5921) (075BCT065) and [@RohanChhetry](https://github.com/0000Blaze) (075BCT066)
 - [Invigilator Management System](https://github.com/Gopal-Kshetri/Invigilator) - [@Gopal-Kshetri](https://github.com/Gopal-Kshetri)(075bct039),[@kiri0424](https://github.com/kiri0424)(075bct042),[@Manjeet-Pandey](https://github.com/Manjeet-pandey)(075bct048)
 - [Internal Marks Management System](https://github.com/chasers-software/immsfrontend) - [@sauzzon](https://github.com/sauzzon) (075BCT083),  [@cool51](https://github.com/cool51) (075BCT051), [@C000Ldude](https://github.com/C000Ldude) (075BCT078) and [@acharyasandeep](https://github.com/acharyasandeep) (075BCT074)
 
@@ -85,7 +85,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 - [Boltzmann Machine](https://github.com/Imsanskar/Boltzman-Machine) - [@Imsanskar](https://github.com/Imsanskar/)(075BCT080) , [@TilakChad](https://github.com/TilakChad/)(075BCT094), [@udeshyaDhungana](https://github.com/udeshyaDhungana/)(075BCT095)
 - [Self Organizing Map](https://github.com/Sandace11/Self-Organizing-Map) - [@Sandace11](https://github.com/Sandace11) (075BCT075), [@ItsPuri](https://github.com/Sandippuri)(075BCT077), [@Supriya090](https://github.com/Supriya090) (075BCT090)
 - [Fuzzy Logic](https://github.com/kiri0424/Fuzzy-logic-implementation) - [@Gopal-Kshetri](https://github.com/Gopal-Kshetri)(075bct039),[@kiri0424](https://github.com/kiri0424)(075bct042),[@Manjeet-Pandey](https://github.com/Manjeet-pandey)(075bct048)
-- [Random Forest](https://github.com/0000Blaze/Random-Forest-Implementation) - [@NikeshDC](https://github.com/NikeshDC) (075BCT052), [@ravip5921](https://github.com/ravip5921) (075BCT065) and [@0000Blaze](https://github.com/0000Blaze) (075BCT066)
+- [Random Forest](https://github.com/0000Blaze/Random-Forest-Implementation) - [@NikeshDC](https://github.com/NikeshDC) (075BCT052), [@ravip5921](https://github.com/ravip5921) (075BCT065) and [@RohanChhetry](https://github.com/0000Blaze) (075BCT066)
 - [Convolutional Neural Network](https://github.com/sauzzon/Nepali-Handwritten) - [@sauzzon](https://github.com/sauzzon) (075BCT083), [@C000Ldude](https://github.com/C000Ldude) (075BCT078) and [@acharyasandeep](https://github.com/acharyasandeep) (075BCT074)
 
 ---
@@ -95,7 +95,7 @@ List of college projects by undergraduates from 075 Batch, Pulchowk Campus.
 - [Yuddhisthira - A Custom "Coinless" Blockchain](https://github.com/pranjalpokharel7/yudhishthira) - "DECENTralized BAZAAR" : Application Over Blockchain ([FrontEnd](https://github.com/UdeshyaDhungana/dbazaar-frontend), [BackEnd](https://github.com/UdeshyaDhungana/dbazaar-backend)) - @pranjalpokharel7(075BCT061), @UdeshyaDhungana(075BCT095), @Sandace11(075BCT075), @nisha056(075BCT056), @Imsanskar(075BCT080)
 - [Old Image Restoration](https://github.com/Imsanskar/Old-image-restoration-minor) ([FrontEnd](https://github.com/Sandippuri/minor_ui)) - @sgr45(075BCT071), @Imsanskar(075BCT080), @Sandippuri(075BCT077), @TilakChad(075BCT084)
 - [DShelf: A Decentralized Publishing Platform](https://github.com/Supriya090/D-Shelf) - @prab205 (075BCT060), @rahulshah63(075BCT063), @Itshyphen (075BCT064) and @Supriya090 (075BCT090)
-- [Smart Attendance : A digitalized approach to the attendance system](https://github.com/0000Blaze/Smart-Attendance) - [@NikeshDC](https://github.com/NikeshDC) (075BCT052), [@ravip5921](https://github.com/ravip5921) (075BCT065) and [@0000Blaze](https://github.com/0000Blaze) (075BCT066)
+- [Smart Attendance : A digitalized approach to the attendance system](https://github.com/0000Blaze/Smart-Attendance) - [@NikeshDC](https://github.com/NikeshDC) (075BCT052), [@ravip5921](https://github.com/ravip5921) (075BCT065) and [@RohanChhetry](https://github.com/0000Blaze) (075BCT066)
 - [De-KYC : A Decentralized KYC Management System](https://github.com/chasers-software/De-KYC) - [@sauzzon](https://github.com/sauzzon) (075BCT083),  [@cool51](https://github.com/cool51) (075BCT051), [@C000Ldude](https://github.com/C000Ldude) (075BCT078) and [@acharyasandeep](https://github.com/acharyasandeep) (075BCT074)
 - [Handwritten-Equation Recogniser](https://github.com/VanIro/LICT-HMER) - [@Kuu44](https://github.com/Kuu44) (075BCT045),[@Yaman8](https://github.com/Yaman8) (075BCT044), [@VanIro](https://github.com/VanIro) (075BCT041), [@lakshman-11](https://github.com/lakshman-11) (075BCT046)
 
